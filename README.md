@@ -78,9 +78,9 @@ This is the core of the freeze mage package, you can potentially cut one of the 
 ## Card Draw
 This is also pretty standard
 
-2x Arcane Intellect
-2x Coldlight Oracle
-2x Novice Engineer
+- 2x Arcane Intellect
+- 2x Coldlight Oracle
+- 2x Novice Engineer
 
 The reason that I do not like to have Acolyte of Pain is because it is pretty mana inefficient to ping him for draw, and you can also help your opponent to mill a crucial combo piece. This should never happen. The focus of this deck is to control all the variables we can, so that we can be consistent. 
 
