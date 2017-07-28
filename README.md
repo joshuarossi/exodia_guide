@@ -14,35 +14,37 @@ So for quest items, we want to generate the cheapest spells that are easiest to 
 These are all the options in Standard:
 
 ### Mage Class
-Babbling Book - Cheap to play, but spells vary a lot
-Primordial Glyph - Cheap to play, provides choice in spell and makes spell cheaper
-Shimmering Tempest - Same downside as babbling, but more expensive and can be stolen or transformed
-Mana Bind - Dependent on other player playing a spell (pretty likely) and then it is free
-Steam Surger - Expensive to play, requires a condition, spell provided is good.
-Cabalist Tome - Gives 3 spells from one card, but spells vary, and can cause issues with handsize
-Archmage Antonides - Takes away your win condition, fireballs are expensive to play
+
+- Babbling Book - Cheap to play, but spells vary a lot
+- Primordial Glyph - Cheap to play, provides choice in spell and makes spell cheaper
+- Shimmering Tempest - Same downside as babbling, but more expensive and can be stolen or transformed
+- Mana Bind - Dependent on other player playing a spell (pretty likely) and then it is free
+- Steam Surger - Expensive to play, requires a condition, spell provided is good.
+- Cabalist Tome - Gives 3 spells from one card, but spells vary, and can cause issues with handsize
+- Archmage Antonides - Takes away your win condition, fireballs are expensive to play
 
 ### Neutral
-Kabal Courier - Lets you discover, but doesn't guarantee a spell, though the spells can usually be found and are usually not expensive
-Kabal Chemist - Potions have less variability, but can be expensive, and some can be conditional
-Burgly Bully - Expensive to play, conditional on opponent playing spells, useful and cheap spells provided (the coin)
-Mukla Tyrant of the Vale - Expensive to play, cheap spells that are easy to play
-Ysera - Very expensive to play, not guaranteed a spell, spells are conditional or can have negative effects
+
+- Kabal Courier - Lets you discover, but doesn't guarantee a spell, though the spells can usually be found and are usually not expensive
+- Kabal Chemist - Potions have less variability, but can be expensive, and some can be conditional
+- Burgly Bully - Expensive to play, conditional on opponent playing spells, useful and cheap spells provided (the coin)
+- Mukla Tyrant of the Vale - Expensive to play, cheap spells that are easy to play
+- Ysera - Very expensive to play, not guaranteed a spell, spells are conditional or can have negative effects
 
 ### Analysis
 In trying to rank these options, we should prioritize low variability, to make an inconsistent deck MORE consistent. The less RNG we have to rely on the better. So Discover > Add.
 The second priority is cost, we want cheap spells that can be cast easily, and don't have negative side effects for us.
 So, it is pretty clear that we can rule out some of these right away.
 Here is how I would rank them:
-Primordial Glyph
-Cabalist Tome
-Kabal Courier
-Mukla
-Babbling Book
-Shimmering Tempest
-Mana Bind
-Burgly Bully
-Kabal Chemist
+- Primordial Glyph
+- Cabalist Tome
+- Kabal Courier
+- Mukla
+- Babbling Book
+- Shimmering Tempest
+- Mana Bind
+- Burgly Bully
+- Kabal Chemist
 
 The rest are not really worth considering. 
 
@@ -64,12 +66,12 @@ So this package of 6 cards is all we need for this section.
 
 ## Survivability
 To last long enough to get our combo ready, we need to survive, so we basically are going to take the tried and true freeze mage strategy. 
-2x Frost Nova
-2x Doomsayer
-2x Blizzard
-2x IceBlock
-2x IceBarrier
-2x Arcanologist
+- 2x Frost Nova
+- 2x Doomsayer
+- 2x Blizzard
+- 2x IceBlock
+- 2x IceBarrier
+- 2x Arcanologist
 
 This is the core of the freeze mage package, you can potentially cut one of the Ice Barriers or add some Cone of Cold's.
 
