@@ -13,23 +13,24 @@ To build a great quest mage, you need the following four components:
 So for quest items, we want to generate the cheapest spells that are easiest to cast. We want to be able to do this reliably. 
 These are all the options in Standard:
 
-### Mage Class
+|                          | Cost to Generate                  | Cost to Cast   | Spells Generated | Notes                                                                                                                                                                                                                                                 |
+|--------------------------|-----------------------------------|----------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MAGE                     |                                   |                |                  |                                                                                                                                                                                                                                                       |
+| Primordial Glyph         | Free (discounts spell you choose) | 1-10 Discover  | 1                | This is the holy grail of spell generation                                                                                                                                                                                                            |
+| Babbling Book            | 1                                 | 1-10 Random    | 1                | Too random                                                                                                                                                                                                                                            |
+| Shimmering Tempest       | 2                                 | 1-10 Random    | 1                | More expensive, can be stolen, can be transformed                                                                                                                                                                                                     |
+| Mana Bind                | 3                                 | 0              | 1                | Really good value, better than random because it was a spell chosen to be in a deck.                                                                                                                                                                  |
+| Steam Surger             | 5                                 | 2              | 1                | Very expensive, requires setup                                                                                                                                                                                                                        |
+| Cabalist Tome            | 5                                 | 1-10 Random    | 3                | Very useful in order to free up space for other cards, as it generates 3                                                                                                                                                                              |
+| Archmage Antonides       | 7 + additional spells             | 4 per fireball | unlimited        | Burns your main win condition, not really an option                                                                                                                                                                                                   |
+| Ghastly Conjurer         | 4                                 | 1              | 1                | Good spell, helps with survivability                                                                                                                                                                                                                  |
+| NEUTRAL                  |                                   |                |                  |                                                                                                                                                                                                                                                       |
+| Burgly Bully             | 5                                 | 0              | unlimited        | People will try to play around it, as opposed to mana bind, where they don't know about it. Great spells that help you, overall great option. (One potential issue is that as a hail mary, an opponent might try to cause you to mill a combo piece). |
+| Kabal Courier            | 3                                 | 1-10 Discover  | 0 or 1           | Discover is better than random generation, but there is a chance for this to whiff                                                                                                                                                                    |
+| Kabal Chemist            | 4                                 | 0-6            | 1                | Random, and also some potions cannot be played in some situations (destroy a mana crystal, destroy your own minions, kill yourself)                                                                                                                   |
+| Mukla Tyrant of the Vale | 6                                 | 1              | 2                | Really good option                                                                                                                                                                                                                                    |
+| Ysera                    | 9                                 | Usually 0      | 0 or 1 per turn  | Very expensive and slow, doesn't guarantee a spell, could kill you                                                                                                                                                                                    |
 
-- Babbling Book - Cheap to play, but spells vary a lot
-- Primordial Glyph - Cheap to play, provides choice in spell and makes spell cheaper
-- Shimmering Tempest - Same downside as babbling, but more expensive and can be stolen or transformed
-- Mana Bind - Dependent on other player playing a spell (pretty likely) and then it is free
-- Steam Surger - Expensive to play, requires a condition, spell provided is good.
-- Cabalist Tome - Gives 3 spells from one card, but spells vary, and can cause issues with handsize
-- Archmage Antonides - Takes away your win condition, fireballs are expensive to play
-
-### Neutral
-
-- Kabal Courier - Lets you discover, but doesn't guarantee a spell, though the spells can usually be found and are usually not expensive
-- Kabal Chemist - Potions have less variability, but can be expensive, and some can be conditional
-- Burgly Bully - Expensive to play, conditional on opponent playing spells, useful and cheap spells provided (the coin)
-- Mukla Tyrant of the Vale - Expensive to play, cheap spells that are easy to play
-- Ysera - Very expensive to play, not guaranteed a spell, spells are conditional or can have negative effects
 
 ### Analysis
 In trying to rank these options, we should prioritize low variability, to make an inconsistent deck MORE consistent. The less RNG we have to rely on the better. So Discover > Add.
