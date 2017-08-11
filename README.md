@@ -1,4 +1,4 @@
-# EXODIA MAGE
+# EXODIA MAGE (updated for Knights of the Frozen Throne)
 
 ## Intro
 
@@ -37,13 +37,14 @@ The second priority is cost, we want cheap spells that can be cast easily, and d
 So, it is pretty clear that we can rule out some of these right away.
 Here is how I would rank them:
 - Primordial Glyph
+- Mana Bind
+- Ghastly Conjurer
 - Cabalist Tome
+- Burgly Bully
 - Kabal Courier
 - Mukla
 - Babbling Book
 - Shimmering Tempest
-- Mana Bind
-- Burgly Bully
 - Kabal Chemist
 
 The rest are not really worth considering. 
@@ -70,7 +71,7 @@ To last long enough to get our combo ready, we need to survive, so we basically 
 - 2x Doomsayer
 - 2x Blizzard
 - 2x IceBlock
-- 2x IceBarrier
+- 1x Frost Lich Jaina (I run this instead of ice barrier, because it gives you armor and usually around 3 heal)
 - 2x Arcanologist
 
 This is the core of the freeze mage package, you can potentially cut one of the Ice Barriers or add some Cone of Cold's.
