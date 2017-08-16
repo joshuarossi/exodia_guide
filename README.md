@@ -89,3 +89,32 @@ The reason that I do not like to have Acolyte of Pain is because it is pretty ma
 General Notes:
 I don't like alexstraza, because it tends to clutter up your hand. 
 
+Here is my final deck list:
+
+### Exodia
+# Class: Mage
+# Format: Standard
+# Year of the Mammoth
+#
+# 1x (1) Open the Waygate
+# 2x (2) Arcanologist
+# 2x (2) Doomsayer
+# 2x (2) Novice Engineer
+# 2x (2) Primordial Glyph
+# 2x (2) Sorcerer's Apprentice
+# 2x (3) Arcane Intellect
+# 2x (3) Coldlight Oracle
+# 2x (3) Frost Nova
+# 2x (3) Ice Block
+# 2x (3) Mana Bind
+# 1x (3) Simulacrum
+# 2x (4) Ghastly Conjurer
+# 2x (4) Molten Reflection
+# 1x (5) Cabalist's Tome
+# 1x (6) Blizzard
+# 1x (7) Archmage Antonidas
+# 1x (9) Frost Lich Jaina
+# 
+AAECAf0EBskDuAiSrALQwQK50QKb0wIMigHAAZwCqwTLBOYE+AfBwQLGwQKYxALaxQLezQIA
+# 
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
