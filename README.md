@@ -91,6 +91,7 @@ I don't like alexstraza, because it tends to clutter up your hand.
 
 Here is my final deck list:
 
+```
 ### Exodia
 # Class: Mage
 # Format: Standard
@@ -118,3 +119,4 @@ Here is my final deck list:
 AAECAf0EBskDuAiSrALQwQK50QKb0wIMigHAAZwCqwTLBOYE+AfBwQLGwQKYxALaxQLezQIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+```
