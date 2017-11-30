@@ -97,10 +97,11 @@ Here is my final deck list:
 # Format: Standard
 # Year of the Mammoth
 #
+# 1x (1) Babbling Book
 # 1x (1) Open the Waygate
 # 2x (2) Arcanologist
 # 2x (2) Doomsayer
-# 2x (2) Novice Engineer
+# 1x (2) Novice Engineer
 # 2x (2) Primordial Glyph
 # 2x (2) Sorcerer's Apprentice
 # 2x (3) Arcane Intellect
@@ -116,7 +117,8 @@ Here is my final deck list:
 # 1x (7) Archmage Antonidas
 # 1x (9) Frost Lich Jaina
 # 
-AAECAf0EBskDuAiSrALQwQK50QKb0wIMigHAAZwCqwTLBOYE+AfBwQLGwQKYxALaxQLezQIA
+AAECAf0ECJwCyQO4CJKsAoGyAtDBArnRApvTAguKAcABqwTLBOYE+AfBwQLGwQKYxALaxQLezQIA
 # 
 # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+
 ```
