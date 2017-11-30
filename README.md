@@ -41,10 +41,10 @@ Here is how I would rank them:
 - Mana Bind
 - Ghastly Conjurer
 - Cabalist Tome
+- Babbling Book
 - Burgly Bully
 - Kabal Courier
 - Mukla
-- Babbling Book
 - Shimmering Tempest
 - Kabal Chemist
 
